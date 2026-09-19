@@ -1,2 +1,2 @@
-streamlist>=1.30
+streamlit>=1.30
 tensorflow>=2.15
